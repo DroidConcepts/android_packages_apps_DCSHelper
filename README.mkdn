@@ -1,0 +1,10 @@
+DCSHelper
+==============================
+
+What is it?
+==============================
+DCSHelper is an app that is requried by DCS in order to save and load saved themes from the user's SD Card. The basis of this app is CMPartsHelper and Droid Concepts would like to thanks the entire CyanogenMod team for figuring out that a separate app was needed in order to do this, and for the basis of this app, and the basis of the save/load theme features in Android ROMs.
+
+Why did you rename it?
+==============================
+We have taken and rebuilt 'CMPartsHelper' by following the commits for its' repo on GitHub, and in that process we have renamed it 'DCSHelper'. We did not rename it to claim it as our own, we have only done so that it matches the Droid Concepts Settings app. Since Droid Concepts is not CM based it did not make sense to us to keep a package named CMParts because we felt it would confuse users. So we have renamed it to 'DCSHelper'. Like stated above it is requrired if the end ROM user wants to be able to load/save themes to their SDCard. Further more Droid Concepts again thanks the CyanogenMod team for their original work. 
